@@ -46,9 +46,13 @@ h1{
     text-align: left;
 }
 
-h2,
-h3 {
+h2 {
     font-size: 22px;
+}
+
+h3 {
+    font-size: 18px;
+    padding-top: 3px;
 }
 
 /* Header */
